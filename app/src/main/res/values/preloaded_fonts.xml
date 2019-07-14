@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@array/preloaded_fonts</item>
+        <item>@font/advent_pro</item>
+        <item>@font/lato_black</item>
+        <item>@font/lato_bold</item>
+        <item>@font/lato_italic</item>
+        <item>@font/satisfy</item>
+    </array>
+</resources>
